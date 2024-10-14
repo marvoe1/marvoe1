@@ -131,7 +131,6 @@ A robust performance testing suite for evaluating application scalability and id
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvoe1&show_icons=true&theme=radical" alt="Marvel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvoe1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
