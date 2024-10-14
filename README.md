@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🛠️ Marvel Ekpenyong</h1>
-  <h3>Software Development Engineer in Test (SDET) & Frontend Developer</h3>
-
+  <h3>Software Development Engineer in Test (SDET) & Full Stack Developer</h3>
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvelekpenyong/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvelekpenyong@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marvoe1)
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Marvel Ekpenyong**, a dedicated **Software Development Engineer in Test (SDET)** with over 3 years of experience in crafting robust automation frameworks and ensuring top-notch software quality. My expertise extends to frontend development, where I create engaging and user-friendly interfaces.
+Hello! I'm **Marvel Ekpenyong**, a dedicated **Software Development Engineer in Test (SDET)** and **Full Stack Developer** with over 3 years of experience in crafting robust automation frameworks and ensuring top-notch software quality. My expertise spans from backend testing to frontend development, allowing me to create comprehensive, high-quality applications.
 
 🔍 Specialized in **test automation**, **CI/CD integration**, and **performance testing**<br/>
 🛠️ Proficient in designing and implementing **scalable test frameworks**<br/>
