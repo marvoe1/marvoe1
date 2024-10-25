@@ -151,5 +151,5 @@ I'm always eager to collaborate on innovative full-stack solutions and testing s
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ by Marvel Ekpenyong | SDET & Quality Advocate</sub>
+  <sub>Marvel Ekpenyong | SDET & Quality Advocate</sub>
 </div>
